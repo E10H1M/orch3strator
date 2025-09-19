@@ -4,8 +4,8 @@
 
 This repo is heavily in development.
 Currently, the worker system for  is being rewritten on this extension friendly architecture. 
-For questions please contact me over X, at:
-https://x.com/c0nsumption_
+For questions please contact me over X, at:  
+[https://x.com/c0nsumption_](https://x.com/c0nsumption_)
 
 
 ### \[projects built on orch3strator\]
