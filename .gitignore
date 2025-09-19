@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build/dist
+build/
+dist/
+*.egg-info/
+
+# Hatch/Setuptools metadata
+*.egg
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# OS/editor junk
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+outputs/
+_outputs
